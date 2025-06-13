@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay</h1>
 <h3 align="center">A passionate **Front-End Web Developer** with experience in building responsive and interactive user interfaces</h3>
 
-- 👨‍💻 Portfolio [vijay27portfolio.vercel.app](vijay27portfolio.vercel.app)
-
 - 📫 How to reach me **vijayjoshi2709@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com](https://drive.google.com/file/d/1PA5CvrMgvnYlPXPsF-BIq3qXoqbK8lAt/view?usp=sharing)
